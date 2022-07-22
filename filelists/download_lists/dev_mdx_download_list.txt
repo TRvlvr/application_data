@@ -10,3 +10,4 @@ Developer Pack: voc_model_epochs_434-439
 Developer Pack: inst_model_epochs_10-17
 Developer Pack: inst_model_epochs_26-40
 Developer Pack: inst_model_epochs_51-57
+Developer Pack: inst_model_epochs_58-64
