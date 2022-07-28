@@ -7,7 +7,7 @@ VR Arch Single Model v5: 1_HP-UVR
 VR Arch Single Model v5: 2_HP-UVR
 VR Arch Single Model v5: 3_HP-Vocal-UVR
 VR Arch Single Model v5: 4_HP-Vocal-UVR
-VR Arch Single Model v5: 5_HP-Karaoke-UVR 
+VR Arch Single Model v5: 5_HP-Karaoke-UVR
 VR Arch Single Model v5: 6_HP-Karaoke-UVR
 VR Arch Single Model v5: 7_HP2-UVR
 VR Arch Single Model v5: 8_HP2-UVR
