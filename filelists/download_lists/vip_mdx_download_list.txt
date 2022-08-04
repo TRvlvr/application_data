@@ -13,3 +13,4 @@ MDX-Net Model VIP: UVR-MDX-NET_Main_427
 MDX-Net Model VIP: UVR-MDX-NET_Main_438
 MDX-Net Model VIP: UVR-MDX-NET_Inst_82_beta
 MDX-Net Model VIP: UVR-MDX-NET_Inst_90_beta
+MDX-Net Model VIP: UVR-MDX-NET_Inst_187_beta
