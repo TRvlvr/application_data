@@ -1,6 +1,6 @@
 {
     "current_version": "UVR_Patch_8_01_2022_121",
-    
+
     "vr_download_list": {
                 "VR Arch Model Pack v5: SP Models": "uvr_v5_sp_models.zip",
                 "VR Arch Model Pack v5: HP2 Models": "uvr_v5_hp2_models.zip",
@@ -37,26 +37,63 @@
                 "MDX-Net Model: UVR-MDX-NET Karaoke": "UVR_MDXNET_KARA.onnx",
                 "MDX-Net Model: UVR_MDXNET_9482": "UVR_MDXNET_9482.onnx"
                         },
-    
-    "demucs_download_list": {
-                "Demucs v3: UVR Models": "UVR_Model_Bag.yaml",
-                "Demucs v3: mdx": "mdx.yaml",
-                "Demucs v3: mdx_q": "mdx_q.yaml",
-                "Demucs v3: mdx_extra": "mdx_extra.yaml",
-                "Demucs v3: mdx_extra_q": "mdx_extra_q.yaml",
-                "Demucs v2: demucs": "demucs-e07c671f.th",
-                "Demucs v2: demucs_extra": "demucs_extra-3646af93.th",
-                "Demucs v2: demucs48_hq": "demucs48_hq-28a1282c.th",
-                "Demucs v2: tasnet": "tasnet-beb46fac.th",
-                "Demucs v2: tasnet_extra": "tasnet_extra-df3777b2.th",
-                "Demucs v2: demucs_unittest": "demucs_unittest-09ebc15f.th",
-                "Demucs v1: demucs": "demucs.th",
-                "Demucs v1: demucs_extra": "demucs_extra.th",
-                "Demucs v1: light": "light.th",
-                "Demucs v1: light_extra": "light_extra.th",
-                "Demucs v1: tasnet": "tasnet.th",
-                "Demucs v1: tasnet_extra": "tasnet_extra.th"},
 
+    "demucs_v3_download_list":{
+                "Demucs v3: mdx":{
+                                "0d19c1c6-0f06f20e.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/0d19c1c6-0f06f20e.th", 
+                                "7ecf8ec1-70f50cc9.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/7ecf8ec1-70f50cc9.th",
+                                "c511e2ab-fe698775.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/c511e2ab-fe698775.th",
+                                "7d865c68-3d5dd56b.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/7d865c68-3d5dd56b.th",
+                                "mdx.yaml": "https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx.yaml"
+                                },
+                
+                "Demucs v3: mdx_q":{
+                                "6b9c2ca1-3fd82607.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/6b9c2ca1-3fd82607.th",
+                                "b72baf4e-8778635e.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/b72baf4e-8778635e.th",
+                                "42e558d4-196e0e1b.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/42e558d4-196e0e1b.th",
+                                "305bc58f-18378783.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/305bc58f-18378783.th",
+                                "mdx_q.yaml": "https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_q.yaml"
+                                },
+                
+                "Demucs v3: mdx_extra":{
+                                "e51eebcc-c1b80bdd.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/e51eebcc-c1b80bdd.th",
+                                "a1d90b5c-ae9d2452.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/a1d90b5c-ae9d2452.th",
+                                "5d2d6c55-db83574e.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/5d2d6c55-db83574e.th",
+                                "cfa93e08-61801ae1.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/cfa93e08-61801ae1.th",
+                                "mdx_extra.yaml": "https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_extra.yaml"
+                                },
+                
+                "Demucs v3: mdx_extra_q": {
+                                "83fc094f-4a16d450.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/83fc094f-4a16d450.th",
+                                "464b36d7-e5a9386e.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/464b36d7-e5a9386e.th",
+                                "14fc6a69-a89dd0ee.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/14fc6a69-a89dd0ee.th",
+                                "7fd6ef75-a905dd85.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/7fd6ef75-a905dd85.th",
+                                "mdx_extra_q.yaml": "https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_extra_q.yaml"
+                                },
+                
+                "Demucs v3: UVR Models":{
+                                "ebf34a2d.th": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/ebf34a2d.th",
+                                "ebf34a2db.th": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/ebf34a2db.th",
+                                "UVR_Demucs_Model_1.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_1.yaml",
+                                "UVR_Demucs_Model_2.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_2.yaml",
+                                "UVR_Demucs_Model_Bag.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_Bag.yaml"
+                                }
+                },
+
+    "demucs_download_list":{
+                "Demucs v2: demucs": {"demucs-e07c671f.th": "https://dl.fbaipublicfiles.com/demucs/v3.0/demucs-e07c671f.th"},
+                "Demucs v2: demucs_extra": {"demucs_extra-3646af93.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_extra-3646af93.th"},
+                "Demucs v2: demucs48_hq": {"demucs48_hq-28a1282c.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs48_hq-28a1282c.th"},
+                "Demucs v2: tasnet": {"tasnet-beb46fac.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet-beb46fac.th"},
+                "Demucs v2: tasnet_extra": {"tasnet_extra-df3777b2.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet_extra-df3777b2.th"},
+                "Demucs v2: demucs_unittest": {"demucs_unittest-09ebc15f.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_unittest-09ebc15f.th"},
+                "Demucs v1: demucs": {"demucs.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/demucs.th"},
+                "Demucs v1: demucs_extra": {"demucs_extra.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/demucs_extra.th"},
+                "Demucs v1: light": {"light.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/light.th"},
+                "Demucs v1: light_extra": {"light_extra.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/light_extra.th"},
+                "Demucs v1: tasnet": {"tasnet.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet.th"},
+                "Demucs v1: tasnet_extra": {"tasnet_extra.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet_extra.th"}
+                            },
 
     "mdx_download_vip_list": ["MDX-Net Model VIP: UVR-MDX-NET_Main_340",
                             "MDX-Net Model VIP: UVR-MDX-NET_Main_390",
@@ -69,5 +106,4 @@
     
     "vr_download_vip_list": [],
     "demucs_download_vip_list": []
-    
-    }
+}
