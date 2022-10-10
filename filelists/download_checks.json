@@ -62,8 +62,8 @@
                         "MDX-Net Model VIP: UVR-MDX-NET_Inst_90_beta",
                         "MDX-Net Model VIP: UVR-MDX-NET_Inst_187_beta"],
 
-"vr_download_vip_list": "",
-"demucs_download_vip_list": ""
+"vr_download_vip_list": [],
+"demucs_download_vip_list": []
 
 }
 
