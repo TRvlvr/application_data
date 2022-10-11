@@ -77,23 +77,56 @@
                                 "UVR_Demucs_Model_1.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_1.yaml",
                                 "UVR_Demucs_Model_2.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_2.yaml",
                                 "UVR_Demucs_Model_Bag.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_Bag.yaml"
+                                },
+
+                "Demucs v2: demucs": {
+                                "demucs-e07c671f.th": "https://dl.fbaipublicfiles.com/demucs/v3.0/demucs-e07c671f.th"
+                                },
+
+                "Demucs v2: demucs_extra": {
+                                "demucs_extra-3646af93.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_extra-3646af93.th"
+                                },
+
+                "Demucs v2: demucs48_hq": {
+                                "demucs48_hq-28a1282c.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs48_hq-28a1282c.th"
+                                },
+
+                "Demucs v2: tasnet": {
+                                "tasnet-beb46fac.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet-beb46fac.th"
+                                },
+
+                "Demucs v2: tasnet_extra": {
+                                "tasnet_extra-df3777b2.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet_extra-df3777b2.th"
+                                },
+                                
+                "Demucs v2: demucs_unittest": {
+                                "demucs_unittest-09ebc15f.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_unittest-09ebc15f.th"
+                                },
+
+                "Demucs v1: demucs": {
+                                "demucs.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/demucs.th"
+                                },
+
+                "Demucs v1: demucs_extra": {
+                                "demucs_extra.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/demucs_extra.th"
+                                },
+
+                "Demucs v1: light": {
+                                "light.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/light.th"
+                                },
+
+                "Demucs v1: light_extra": {
+                                "light_extra.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/light_extra.th"
+                                },
+
+                "Demucs v1: tasnet": {
+                                "tasnet.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet.th"
+                                },
+                                
+                "Demucs v1: tasnet_extra": {
+                                "tasnet_extra.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet_extra.th"
                                 }
                 },
-
-    "demucs_download_list":{
-                "Demucs v2: demucs": {"demucs-e07c671f.th": "https://dl.fbaipublicfiles.com/demucs/v3.0/demucs-e07c671f.th"},
-                "Demucs v2: demucs_extra": {"demucs_extra-3646af93.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_extra-3646af93.th"},
-                "Demucs v2: demucs48_hq": {"demucs48_hq-28a1282c.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs48_hq-28a1282c.th"},
-                "Demucs v2: tasnet": {"tasnet-beb46fac.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet-beb46fac.th"},
-                "Demucs v2: tasnet_extra": {"tasnet_extra-df3777b2.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/tasnet_extra-df3777b2.th"},
-                "Demucs v2: demucs_unittest": {"demucs_unittest-09ebc15f.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_unittest-09ebc15f.th"},
-                "Demucs v1: demucs": {"demucs.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/demucs.th"},
-                "Demucs v1: demucs_extra": {"demucs_extra.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/demucs_extra.th"},
-                "Demucs v1: light": {"light.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/light.th"},
-                "Demucs v1: light_extra": {"light_extra.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/light_extra.th"},
-                "Demucs v1: tasnet": {"tasnet.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet.th"},
-                "Demucs v1: tasnet_extra": {"tasnet_extra.th":"https://dl.fbaipublicfiles.com/demucs/v2.0/tasnet_extra.th"}
-                            },
 
     "mdx_download_vip_list": ["MDX-Net Model VIP: UVR-MDX-NET_Main_340",
                             "MDX-Net Model VIP: UVR-MDX-NET_Main_390",
