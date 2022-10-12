@@ -125,14 +125,16 @@
                                 }
                 },
 
-    "mdx_download_vip_list": ["MDX-Net Model VIP: UVR-MDX-NET_Main_340",
-                            "MDX-Net Model VIP: UVR-MDX-NET_Main_390",
-                            "MDX-Net Model VIP: UVR-MDX-NET_Main_406",
-                            "MDX-Net Model VIP: UVR-MDX-NET_Main_427",
-                            "MDX-Net Model VIP: UVR-MDX-NET_Main_438",
-                            "MDX-Net Model VIP: UVR-MDX-NET_Inst_82_beta",
-                            "MDX-Net Model VIP: UVR-MDX-NET_Inst_90_beta",
-                            "MDX-Net Model VIP: UVR-MDX-NET_Inst_187_beta"],
+    "mdx_download_vip_list": {
+                "MDX-Net Model VIP: UVR-MDX-NET_Main_340": "UVR-MDX-NET_Main_340.onnx",
+                "MDX-Net Model VIP: UVR-MDX-NET_Main_390": "UVR-MDX-NET_Main_390.onnx",
+                "MDX-Net Model VIP: UVR-MDX-NET_Main_406": "UVR-MDX-NET_Main_406.onnx",
+                "MDX-Net Model VIP: UVR-MDX-NET_Main_427": "UVR-MDX-NET_Main_427.onnx",
+                "MDX-Net Model VIP: UVR-MDX-NET_Main_438": "UVR-MDX-NET_Main_438.onnx",
+                "MDX-Net Model VIP: UVR-MDX-NET_Inst_82_beta": "UVR-MDX-NET_Inst_82_beta.onnx",
+                "MDX-Net Model VIP: UVR-MDX-NET_Inst_90_beta": "UVR-MDX-NET_Inst_90_beta.onnx",
+                "MDX-Net Model VIP: UVR-MDX-NET_Inst_187_beta": "UVR-MDX-NET_Inst_187_beta.onnx"
+                },
     
     "vr_download_vip_list": [],
     "demucs_download_vip_list": []
