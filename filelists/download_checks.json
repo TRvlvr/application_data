@@ -2,9 +2,6 @@
     "current_version": "UVR_Patch_8_01_2022_121",
 
     "vr_download_list": {
-                "VR Arch Model Pack v5: SP Models": "uvr_v5_sp_models.zip",
-                "VR Arch Model Pack v5: HP2 Models": "uvr_v5_hp2_models.zip",
-                "VR Arch Model Pack v4: Main Models": "uvr_v4_models.zip",
                 "VR Arch Single Model v5: 1_HP-UVR": "1_HP-UVR.pth",
                 "VR Arch Single Model v5: 2_HP-UVR": "2_HP-UVR.pth",
                 "VR Arch Single Model v5: 3_HP-Vocal-UVR": "3_HP-Vocal-UVR.pth",
