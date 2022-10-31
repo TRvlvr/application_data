@@ -6,3 +6,6 @@ MDX-Net Model: UVR_MDXNET_2_9682
 MDX-Net Model: UVR_MDXNET_3_9662
 MDX-Net Model: UVR_MDXNET_9482
 MDX-Net Model: UVR_MDXNET_KARA
+MDX-Net Model: UVR-MDX-NET-Inst_1
+MDX-Net Model: UVR-MDX-NET-Inst_2
+MDX-Net Model: UVR-MDX-NET-Inst_3
