@@ -88,14 +88,6 @@
                                 "mdx_extra_q.yaml": "https://raw.githubusercontent.com/facebookresearch/demucs/main/demucs/remote/mdx_extra_q.yaml"
                                 },
                 
-                "Demucs v3: UVR Models":{
-                                "ebf34a2d.th": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/ebf34a2d.th",
-                                "ebf34a2db.th": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/ebf34a2db.th",
-                                "UVR_Demucs_Model_1.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_1.yaml",
-                                "UVR_Demucs_Model_2.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_2.yaml",
-                                "UVR_Demucs_Model_Bag.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_Bag.yaml"
-                                },
-
                 "Demucs v3: repro_mdx_a":{
                                 "9a6b4851-03af0aa6.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/9a6b4851-03af0aa6.th", 
                                 "1ef250f1-592467ce.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/1ef250f1-592467ce.th",
@@ -116,6 +108,14 @@
                                 "repro_mdx_a_hybrid_only.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_hybrid_only.yaml"
                                 },
 
+                "Demucs v3: UVR Models":{
+                                "ebf34a2d.th": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/ebf34a2d.th",
+                                "ebf34a2db.th": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/ebf34a2db.th",
+                                "UVR_Demucs_Model_1.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_1.yaml",
+                                "UVR_Demucs_Model_2.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_2.yaml",
+                                "UVR_Demucs_Model_Bag.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_Bag.yaml"
+                                },
+        
                 "Demucs v2: demucs": {
                                 "demucs-e07c671f.th": "https://dl.fbaipublicfiles.com/demucs/v3.0/demucs-e07c671f.th"
                                 },
