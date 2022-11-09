@@ -2,40 +2,60 @@
     "current_version": "UVR_Patch_8_01_2022_121",
 
     "vr_download_list": {
-                "VR Arch Single Model v5: 1_HP-UVR": "1_HP-UVR.pth",
-                "VR Arch Single Model v5: 2_HP-UVR": "2_HP-UVR.pth",
-                "VR Arch Single Model v5: 3_HP-Vocal-UVR": "3_HP-Vocal-UVR.pth",
-                "VR Arch Single Model v5: 4_HP-Vocal-UVR": "4_HP-Vocal-UVR.pth",
-                "VR Arch Single Model v5: 5_HP-Karaoke-UVR": "5_HP-Karaoke-UVR.pth",
-                "VR Arch Single Model v5: 6_HP-Karaoke-UVR": "6_HP-Karaoke-UVR.pth",
-                "VR Arch Single Model v5: 7_HP2-UVR": "7_HP2-UVR.pth",
-                "VR Arch Single Model v5: 8_HP2-UVR": "8_HP2-UVR.pth",
-                "VR Arch Single Model v5: 9_HP2-UVR": "9_HP2-UVR.pth",
-                "VR Arch Single Model v5: 10_SP-UVR-2B-32000-1": "10_SP-UVR-2B-32000-1.pth",
-                "VR Arch Single Model v5: 11_SP-UVR-2B-32000-2": "11_SP-UVR-2B-32000-2.pth",
-                "VR Arch Single Model v5: 12_SP-UVR-3B-44100": "12_SP-UVR-3B-44100.pth",
-                "VR Arch Single Model v5: 13_SP-UVR-4B-44100-1": "13_SP-UVR-4B-44100-1.pth",
-                "VR Arch Single Model v5: 14_SP-UVR-4B-44100-2": "14_SP-UVR-4B-44100-2.pth",
-                "VR Arch Single Model v5: 15_SP-UVR-MID-44100-1": "15_SP-UVR-MID-44100-1.pth",
-                "VR Arch Single Model v5: 16_SP-UVR-MID-44100-2": "16_SP-UVR-MID-44100-2.pth",
-                "VR Arch Single Model v4: MGM_HIGHEND_v4": "MGM_HIGHEND_v4.pth",
-                "VR Arch Single Model v4: MGM_LOWEND_A_v4": "MGM_LOWEND_A_v4.pth",
-                "VR Arch Single Model v4: MGM_LOWEND_B_v4": "MGM_LOWEND_B_v4.pth",
-                "VR Arch Single Model v4: MGM_MAIN_v4": "MGM_MAIN_v4.pth"
+                                "VR Arch Single Model v5: 1_HP-UVR": "1_HP-UVR.pth",
+                                "VR Arch Single Model v5: 2_HP-UVR": "2_HP-UVR.pth",
+                                "VR Arch Single Model v5: 3_HP-Vocal-UVR": "3_HP-Vocal-UVR.pth",
+                                "VR Arch Single Model v5: 4_HP-Vocal-UVR": "4_HP-Vocal-UVR.pth",
+                                "VR Arch Single Model v5: 5_HP-Karaoke-UVR": "5_HP-Karaoke-UVR.pth",
+                                "VR Arch Single Model v5: 6_HP-Karaoke-UVR": "6_HP-Karaoke-UVR.pth",
+                                "VR Arch Single Model v5: 7_HP2-UVR": "7_HP2-UVR.pth",
+                                "VR Arch Single Model v5: 8_HP2-UVR": "8_HP2-UVR.pth",
+                                "VR Arch Single Model v5: 9_HP2-UVR": "9_HP2-UVR.pth",
+                                "VR Arch Single Model v5: 10_SP-UVR-2B-32000-1": "10_SP-UVR-2B-32000-1.pth",
+                                "VR Arch Single Model v5: 11_SP-UVR-2B-32000-2": "11_SP-UVR-2B-32000-2.pth",
+                                "VR Arch Single Model v5: 12_SP-UVR-3B-44100": "12_SP-UVR-3B-44100.pth",
+                                "VR Arch Single Model v5: 13_SP-UVR-4B-44100-1": "13_SP-UVR-4B-44100-1.pth",
+                                "VR Arch Single Model v5: 14_SP-UVR-4B-44100-2": "14_SP-UVR-4B-44100-2.pth",
+                                "VR Arch Single Model v5: 15_SP-UVR-MID-44100-1": "15_SP-UVR-MID-44100-1.pth",
+                                "VR Arch Single Model v5: 16_SP-UVR-MID-44100-2": "16_SP-UVR-MID-44100-2.pth",
+                                "VR Arch Single Model v4: MGM_HIGHEND_v4": "MGM_HIGHEND_v4.pth",
+                                "VR Arch Single Model v4: MGM_LOWEND_A_v4": "MGM_LOWEND_A_v4.pth",
+                                "VR Arch Single Model v4: MGM_LOWEND_B_v4": "MGM_LOWEND_B_v4.pth",
+                                "VR Arch Single Model v4: MGM_MAIN_v4": "MGM_MAIN_v4.pth"
                 },
     
     "mdx_download_list": {
-                "MDX-Net Model: UVR-MDX-NET Main": "UVR_MDXNET_Main.onnx",
-                "MDX-Net Model: UVR-MDX-NET 1": "UVR_MDXNET_1_9703.onnx",
-                "MDX-Net Model: UVR-MDX-NET 2": "UVR_MDXNET_2_9682.onnx",
-                "MDX-Net Model: UVR-MDX-NET 3": "UVR_MDXNET_3_9662.onnx",
-                "MDX-Net Model: UVR-MDX-NET Inst 1": "UVR_MDXNET_Inst_1.onnx",
-                "MDX-Net Model: UVR-MDX-NET Inst 2": "UVR_MDXNET_Inst_2.onnx",
-                "MDX-Net Model: UVR-MDX-NET Karaoke": "UVR_MDXNET_KARA.onnx",
-                "MDX-Net Model: UVR_MDXNET_9482": "UVR_MDXNET_9482.onnx"
+                                "MDX-Net Model: UVR-MDX-NET Main": "UVR_MDXNET_Main.onnx",
+                                "MDX-Net Model: UVR-MDX-NET 1": "UVR_MDXNET_1_9703.onnx",
+                                "MDX-Net Model: UVR-MDX-NET 2": "UVR_MDXNET_2_9682.onnx",
+                                "MDX-Net Model: UVR-MDX-NET 3": "UVR_MDXNET_3_9662.onnx",
+                                "MDX-Net Model: UVR-MDX-NET Inst 1": "UVR-MDX-NET-Inst_1.onnx",
+                                "MDX-Net Model: UVR-MDX-NET Inst 2": "UVR-MDX-NET-Inst_2.onnx",
+                                "MDX-Net Model: UVR-MDX-NET Inst 3": "UVR-MDX-NET-Inst_3.onnx",
+                                "MDX-Net Model: UVR-MDX-NET Karaoke": "UVR_MDXNET_KARA.onnx",
+                                "MDX-Net Model: UVR_MDXNET_9482": "UVR_MDXNET_9482.onnx"
                         },
 
     "demucs_download_list":{
+
+                "Demucs v4: htdemucs_ft":{
+                                "f7e0c4bc-ba3fe64a.th":"https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/f7e0c4bc-ba3fe64a.th",
+                                "d12395a8-e57c48e6.th":"https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/d12395a8-e57c48e6.th",
+                                "92cfc3b6-ef3bcb9c.th":"https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/92cfc3b6-ef3bcb9c.th",
+                                "04573f0d-f3cf25b2.th":"https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/04573f0d-f3cf25b2.th",
+                                "htdemucs_ft.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs_ft.yaml"
+                                },
+
+                "Demucs v4: htdemucs":{
+                                "955717e8-8726e21a.th": "https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/955717e8-8726e21a.th",
+                                "htdemucs.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs.yaml"
+                                },
+
+                "Demucs v4: hdemucs_mmi":{
+                                "75fc33f5-1941ce65.th": "https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/75fc33f5-1941ce65.th",
+                                "hdemucs_mmi.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/hdemucs_mmi.yaml"
+                                },
+
                 "Demucs v3: mdx":{
                                 "0d19c1c6-0f06f20e.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/0d19c1c6-0f06f20e.th", 
                                 "7ecf8ec1-70f50cc9.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/7ecf8ec1-70f50cc9.th",
@@ -74,6 +94,26 @@
                                 "UVR_Demucs_Model_1.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_1.yaml",
                                 "UVR_Demucs_Model_2.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_2.yaml",
                                 "UVR_Demucs_Model_Bag.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_Bag.yaml"
+                                },
+
+                "Demucs v3: repro_mdx_a":{
+                                "9a6b4851-03af0aa6.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/9a6b4851-03af0aa6.th", 
+                                "1ef250f1-592467ce.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/1ef250f1-592467ce.th",
+                                "fa0cb7f9-100d8bf4.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/fa0cb7f9-100d8bf4.th",
+                                "902315c2-b39ce9c9.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/902315c2-b39ce9c9.th",
+                                "repro_mdx_a.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a.yaml"
+                                },
+
+                "Demucs v3: repro_mdx_a_time_only":{
+                                "9a6b4851-03af0aa6.th":"https://dl.fbaipublicfiles.com/demucs/mdx_final/9a6b4851-03af0aa6.th",
+                                "1ef250f1-592467ce.th":"https://dl.fbaipublicfiles.com/demucs/mdx_final/1ef250f1-592467ce.th",
+                                "repro_mdx_a_time_only.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_time_only.yaml"
+                                },
+
+                "Demucs v3: repro_mdx_a_hybrid_only":{
+                                "fa0cb7f9-100d8bf4.th":"https://dl.fbaipublicfiles.com/demucs/mdx_final/fa0cb7f9-100d8bf4.th",
+                                "902315c2-b39ce9c9.th":"https://dl.fbaipublicfiles.com/demucs/mdx_final/902315c2-b39ce9c9.th",
+                                "repro_mdx_a_hybrid_only.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_hybrid_only.yaml"
                                 },
 
                 "Demucs v2: demucs": {
