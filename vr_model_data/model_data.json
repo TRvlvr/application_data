@@ -83,6 +83,10 @@
     "vr_model_param": "4band_v3",
     "primary_stem": "Instrumental"
     },
+"f6ea8473ff86017b5ebd586ccacf156b" :{
+    "vr_model_param": "4band_v2_sn",
+    "primary_stem": "Instrumental"
+    },
 "fd297a61eafc9d829033f8b987c39a3d" :{
     "vr_model_param": "1band_sr32000_hl512",
     "primary_stem": "Instrumental"
