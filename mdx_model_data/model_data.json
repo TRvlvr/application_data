@@ -167,6 +167,13 @@
                 "mdx_n_fft_scale_set": 7680,
                 "primary_stem": "Vocals"
                 },
+    "1c56ec0224f1d559c42fd6fd2a67b154": {
+                "compensate": 1.035,
+                "mdx_dim_f_set": 2048,
+                "mdx_dim_t_set": 8,
+                "mdx_n_fft_scale_set": 5120,
+                "primary_stem": "Instrumental"
+                },
     "f2df6d6863d8f435436d8b561594ff49" :{
                 "compensate": 1.035,
                 "mdx_dim_f_set": 3072,
