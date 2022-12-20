@@ -35,14 +35,14 @@
                                 "MDX-Net Model: UVR-MDX-NET Inst 3": "UVR-MDX-NET-Inst_3.onnx",
                                 "MDX-Net Model: UVR-MDX-NET Karaoke": "UVR_MDXNET_KARA.onnx",
                                 "MDX-Net Model: UVR_MDXNET_9482": "UVR_MDXNET_9482.onnx",
-                                "kuielab_a_vocals": "kuielab_a_vocals.onnx",
-                                "kuielab_a_other": "kuielab_a_other.onnx",
-                                "kuielab_a_bass": "kuielab_a_bass.onnx",
-                                "kuielab_a_drums": "kuielab_a_drums.onnx",
-                                "kuielab_b_vocals": "kuielab_b_vocals.onnx",
-                                "kuielab_b_other": "kuielab_b_other.onnx",
-                                "kuielab_b_bass": "kuielab_b_bass.onnx",
-                                "kuielab_b_drums": "kuielab_b_drums.onnx"
+                                "MDX-Net Model: kuielab_a_vocals": "kuielab_a_vocals.onnx",
+                                "MDX-Net Model: kuielab_a_other": "kuielab_a_other.onnx",
+                                "MDX-Net Model: kuielab_a_bass": "kuielab_a_bass.onnx",
+                                "MDX-Net Model: kuielab_a_drums": "kuielab_a_drums.onnx",
+                                "MDX-Net Model: kuielab_b_vocals": "kuielab_b_vocals.onnx",
+                                "MDX-Net Model: kuielab_b_other": "kuielab_b_other.onnx",
+                                "MDX-Net Model: kuielab_b_bass": "kuielab_b_bass.onnx",
+                                "MDX-Net Model: kuielab_b_drums": "kuielab_b_drums.onnx"
                         },
 
     "demucs_download_list":{
