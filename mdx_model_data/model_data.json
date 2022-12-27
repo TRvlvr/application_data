@@ -180,5 +180,12 @@
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
         "primary_stem": "Instrumental"
+    },
+    "73492b58195c3b52d34590d5474452f6": {
+        "compensate": 1.075,
+        "mdx_dim_f_set": 3072,
+        "mdx_dim_t_set": 8,
+        "mdx_n_fft_scale_set": 7680,
+        "primary_stem": "Vocals"
     }
 }
