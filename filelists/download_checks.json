@@ -127,10 +127,6 @@
                                 "repro_mdx_a_hybrid_only.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_hybrid_only.yaml"
                                 },
 
-                "Demucs v2: demucs": {
-                                "demucs-e07c671f.th": "https://dl.fbaipublicfiles.com/demucs/v3.0/demucs-e07c671f.th"
-                                },
-
                 "Demucs v2: demucs_extra": {
                                 "demucs_extra-3646af93.th":"https://dl.fbaipublicfiles.com/demucs/v3.0/demucs_extra-3646af93.th"
                                 },
