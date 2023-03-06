@@ -184,7 +184,8 @@
                 "MDX-Net Model VIP: UVR-MDX-NET_Main_438": "UVR-MDX-NET_Main_438.onnx",
                 "MDX-Net Model VIP: UVR-MDX-NET_Inst_82_beta": "UVR-MDX-NET_Inst_82_beta.onnx",
                 "MDX-Net Model VIP: UVR-MDX-NET_Inst_90_beta": "UVR-MDX-NET_Inst_90_beta.onnx",
-                "MDX-Net Model VIP: UVR-MDX-NET_Inst_187_beta": "UVR-MDX-NET_Inst_187_beta.onnx"
+                "MDX-Net Model VIP: UVR-MDX-NET_Inst_187_beta": "UVR-MDX-NET_Inst_187_beta.onnx",
+                "MDX-Net Model VIP: UVR-MDX-NET-Inst_full_292": "UVR-MDX-NET-Inst_full_292.onnx"
                 },
     
     "vr_download_vip_list": [],
