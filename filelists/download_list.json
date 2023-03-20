@@ -31,6 +31,8 @@
                           "MDX-Net Model: UVR_MDXNET_3_9662",
                           "MDX-Net Model: UVR_MDXNET_9482",
                           "MDX-Net Model: UVR_MDXNET_KARA",
+                          "MDX-Net Model: UVR-MDXNET_KARA_2",
+                          "MDX-Net Model: UVR-MDX-NET-Inst_HQ_1",
                           "MDX-Net Model VIP: UVR-MDX-NET_Main_340",
                           "MDX-Net Model VIP: UVR-MDX-NET_Main_390",
                           "MDX-Net Model VIP: UVR-MDX-NET_Main_406",
@@ -58,6 +60,5 @@
                             "Demucs v1: light_extra",
                             "Demucs v1: tasnet",
                             "Demucs v1: tasnet_extra"]
-
 }
 
