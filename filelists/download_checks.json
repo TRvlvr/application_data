@@ -37,7 +37,6 @@
                                 "MDX-Net Model: UVR-MDX-NET Inst 3": "UVR-MDX-NET-Inst_3.onnx",
                                 "MDX-Net Model: UVR-MDX-NET Karaoke": "UVR_MDXNET_KARA.onnx",
                                 "MDX-Net Model: UVR-MDX-NET Karaoke 2": "UVR_MDXNET_KARA_2.onnx",
-                                "MDX-Net Model: UVR-MDX-NET Inst HQ 1": "UVR-MDX-NET-Inst_HQ_1.onnx",
                                 "MDX-Net Model: UVR_MDXNET_9482": "UVR_MDXNET_9482.onnx",
                                 "MDX-Net Model: Kim_Vocal_1": "Kim_Vocal_1.onnx",
                                 "MDX-Net Model: kuielab_a_vocals": "kuielab_a_vocals.onnx",
