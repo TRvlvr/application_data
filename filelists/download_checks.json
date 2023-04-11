@@ -28,6 +28,7 @@
     
     "mdx_download_list": {      
                                 "MDX-Net Model: UVR-MDX-NET Inst HQ 1": "UVR-MDX-NET-Inst_HQ_1.onnx",
+                                "MDX-Net Model: UVR-MDX-NET Inst HQ 2": "UVR-MDX-NET-Inst_HQ_2.onnx",
                                 "MDX-Net Model: UVR-MDX-NET Main": "UVR_MDXNET_Main.onnx",
                                 "MDX-Net Model: UVR-MDX-NET Inst Main": "UVR-MDX-NET-Inst_Main.onnx",
                                 "MDX-Net Model: UVR-MDX-NET 1": "UVR_MDXNET_1_9703.onnx",
