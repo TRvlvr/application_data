@@ -14,7 +14,7 @@
         "primary_stem": "Other"
     },
     "2cdd429caac38f0194b133884160f2c6": {
-        "compensate": 1.035,
+        "compensate": 1.045,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
@@ -49,7 +49,7 @@
         "primary_stem": "Drums"
     },
     "53c4baf4d12c3e6c3831bb8f5b532b93": {
-        "compensate": 1.035,
+        "compensate": 1.043,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
@@ -91,21 +91,21 @@
         "primary_stem": "Vocals"
     },
     "867595e9de46f6ab699008295df62798": {
-        "compensate": 1.075,
+        "compensate": 1.030,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
         "primary_stem": "Vocals"
     },
     "a3cd63058945e777505c01d2507daf37": {
-        "compensate": 1.035,
+        "compensate": 1.030,
         "mdx_dim_f_set": 2048,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 6144,
         "primary_stem": "Vocals"
     },
     "b33d9b3950b6cbf5fe90a32608924700": {
-        "compensate": 1.075,
+        "compensate": 1.030,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
@@ -154,14 +154,14 @@
         "primary_stem": "Drums"
     },
     "e5572e58abf111f80d8241d2e44e7fa4": {
-        "compensate": 1.035,
+        "compensate": 1.028,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
         "primary_stem": "Instrumental"
     },
     "e7324c873b1f615c35c1967f912db92a": {
-        "compensate": 1.075,
+        "compensate": 1.030,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
@@ -189,14 +189,14 @@
         "primary_stem": "Instrumental"
     },
     "94ff780b977d3ca07c7a343dab2e25dd": {
-        "compensate": 1.035,
+        "compensate": 1.039,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 6144,
         "primary_stem": "Instrumental"
     },
     "73492b58195c3b52d34590d5474452f6": {
-        "compensate": 1.075,
+        "compensate": 1.043,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
