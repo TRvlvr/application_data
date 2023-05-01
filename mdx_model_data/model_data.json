@@ -231,7 +231,7 @@
         "primary_stem": "Instrumental"
     },
     "cc63408db3d80b4d85b0287d1d7c9632": {
-        "compensate": 1.035,
+        "compensate": 1.033,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 6144,
@@ -245,7 +245,7 @@
         "primary_stem": "Other"
     },
     "b6bccda408a436db8500083ef3491e8b": {
-        "compensate": 1.035,
+        "compensate": 1.020,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
