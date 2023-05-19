@@ -203,7 +203,7 @@
         "primary_stem": "Vocals"
     },
     "970b3f9492014d18fefeedfe4773cb42": {
-        "compensate": 1.043,
+        "compensate": 1.009,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
