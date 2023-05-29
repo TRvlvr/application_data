@@ -251,6 +251,13 @@
         "mdx_n_fft_scale_set": 6144,
         "primary_stem": "Other"
     },
+    "41e9ab8fc4f40222b6307f0d8feb8afd": {
+        "compensate": 1.033,
+        "mdx_dim_f_set": 3072,
+        "mdx_dim_t_set": 8,
+        "mdx_n_fft_scale_set": 6144,
+        "primary_stem": "Instrumental"
+    },
     "b6bccda408a436db8500083ef3491e8b": {
         "compensate": 1.020,
         "mdx_dim_f_set": 3072,
