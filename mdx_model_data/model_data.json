@@ -91,21 +91,21 @@
         "primary_stem": "Vocals"
     },
     "867595e9de46f6ab699008295df62798": {
-        "compensate": 1.030,
+        "compensate": 1.03,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
         "primary_stem": "Vocals"
     },
     "a3cd63058945e777505c01d2507daf37": {
-        "compensate": 1.030,
+        "compensate": 1.03,
         "mdx_dim_f_set": 2048,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 6144,
         "primary_stem": "Vocals"
     },
     "b33d9b3950b6cbf5fe90a32608924700": {
-        "compensate": 1.030,
+        "compensate": 1.03,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
@@ -161,7 +161,7 @@
         "primary_stem": "Instrumental"
     },
     "e7324c873b1f615c35c1967f912db92a": {
-        "compensate": 1.030,
+        "compensate": 1.03,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
@@ -259,7 +259,21 @@
         "primary_stem": "Instrumental"
     },
     "b6bccda408a436db8500083ef3491e8b": {
-        "compensate": 1.020,
+        "compensate": 1.02,
+        "mdx_dim_f_set": 3072,
+        "mdx_dim_t_set": 8,
+        "mdx_n_fft_scale_set": 7680,
+        "primary_stem": "Instrumental"
+    },
+    "8a88db95c7fb5dbe6a095ff2ffb428b1": {
+        "compensate": 1.026,
+        "mdx_dim_f_set": 2048,
+        "mdx_dim_t_set": 8,
+        "mdx_n_fft_scale_set": 5120,
+        "primary_stem": "Instrumental"
+    },
+    "b78da4afc6512f98e4756f5977f5c6b9": {
+        "compensate": 1.021,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
