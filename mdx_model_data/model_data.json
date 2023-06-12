@@ -252,7 +252,7 @@
         "primary_stem": "Other"
     },
     "55657dd70583b0fedfba5f67df11d711": {
-        "compensate": 1.033,
+        "compensate": 1.022,
         "mdx_dim_f_set": 3072,
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 6144,
