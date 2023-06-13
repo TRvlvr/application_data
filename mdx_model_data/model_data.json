@@ -278,5 +278,50 @@
         "mdx_dim_t_set": 8,
         "mdx_n_fft_scale_set": 7680,
         "primary_stem": "Instrumental"
+    },
+    "2154254ee89b2945b97a7efed6e88820": {
+        "config_yaml": "model_2_stem_061321.yaml"
+    },
+    "063aadd735d58150722926dcbf5852a9": {
+        "config_yaml": "model_2_stem_061321.yaml"
+    },
+    "fe96801369f6a148df2720f5ced88c19": {
+        "config_yaml": "model3.yaml"
+    },
+    "02e8b226f85fb566e5db894b9931c640": {
+        "config_yaml": "model2.yaml"
+    },
+    "e3de6d861635ab9c1d766149edd680d6": {
+        "config_yaml": "model1.yaml"
+    },
+    "3f2936c554ab73ce2e396d54636bd373": {
+        "config_yaml": "modelB.yaml"
+    },
+    "890d0f6f82d7574bca741a9e8bcb8168": {
+        "config_yaml": "modelB.yaml"
+    },
+    "63a3cb8c37c474681049be4ad1ba8815": {
+        "config_yaml": "modelB.yaml"
+    },
+    "a7fc5d719743c7fd6b61bd2b4d48b9f0": {
+        "config_yaml": "modelA.yaml"
+    },
+    "3567f3dee6e77bf366fcb1c7b8bc3745": {
+        "config_yaml": "modelA.yaml"
+    },
+    "a28f4d717bd0d34cd2ff7a3b0a3d065e": {
+        "config_yaml": "modelA.yaml"
+    },
+    "c9971a18da20911822593dc81caa8be9": {
+        "config_yaml": "sndfx.yaml"
+    },
+    "57d94d5ed705460d21c75a5ac829a605": {
+        "config_yaml": "sndfx.yaml"
+    },
+    "e7a25f8764f25a52c1b96c4946e66ba2": {
+        "config_yaml": "sndfx.yaml"
+    },
+    "104081d24e37217086ce5fde09147ee1": {
+        "config_yaml": "model_2_stem_061321.yaml"
     }
 }
