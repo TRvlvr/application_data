@@ -23,6 +23,8 @@
                         "VR Arch Single Model v5: UVR-De-Echo-Aggressive by FoxJoy": "UVR-De-Echo-Aggressive.pth",
                         "VR Arch Single Model v5: UVR-De-Echo-Normal by FoxJoy": "UVR-De-Echo-Normal.pth",
                         "VR Arch Single Model v5: UVR-DeEcho-DeReverb by FoxJoy": "UVR-DeEcho-DeReverb.pth",
+                        "VR Arch Single Model v5: UVR-DeNoise-Lite by FoxJoy": "UVR-DeNoise-Lite.pth",
+                        "VR Arch Single Model v5: UVR-DeNoise by FoxJoy": "UVR-DeNoise.pth",
                         "VR Arch Single Model v4: MGM_HIGHEND_v4": "MGM_HIGHEND_v4.pth",
                         "VR Arch Single Model v4: MGM_LOWEND_A_v4": "MGM_LOWEND_A_v4.pth",
                         "VR Arch Single Model v4: MGM_LOWEND_B_v4": "MGM_LOWEND_B_v4.pth",
