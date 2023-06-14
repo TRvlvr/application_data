@@ -110,5 +110,17 @@
         "primary_stem": "No Other",
         "nout":48,
         "nout_lstm":128
+    },
+    "44c55d8b5d2e3edea98c2b2bf93071c7": {
+        "vr_model_param": "4band_v3",
+        "primary_stem": "Other",
+        "nout":48,
+        "nout_lstm":128
+    },
+    "51ea8c43a6928ed3c10ef5cb2707d57b": {
+        "vr_model_param": "1band_sr44100_hl1024",
+        "primary_stem": "Other",
+        "nout":16,
+        "nout_lstm":128
     }
 }
