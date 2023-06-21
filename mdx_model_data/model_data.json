@@ -326,5 +326,8 @@
     },
     "1e6165b601539f38d0a9330f3facffeb": {
         "config_yaml": "model_2_stem_061321.yaml"
+    },
+    "fe0108464ce0d8271be5ab810891bd7c": {
+        "config_yaml": "model_2_stem_full_band.yaml"
     }
 }
