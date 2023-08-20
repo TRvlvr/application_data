@@ -201,6 +201,10 @@
                 "MDX-Net Model VIP: UVR-MDX-NET_Inst_187_beta": "UVR-MDX-NET_Inst_187_beta.onnx",
                 "MDX-Net Model VIP: UVR-MDX-NET-Inst_full_292": "UVR-MDX-NET-Inst_full_292.onnx"
                 },
+
+    "mdx23_download_list": {
+        "MDX23 Model: MDX23C_D1581": "MDX23C_D1581.ckpt",
+        },
     
     "vr_download_vip_list": [],
     "demucs_download_vip_list": []
