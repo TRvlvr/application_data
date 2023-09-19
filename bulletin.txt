@@ -3,7 +3,11 @@ Name:
 Bas Curtiz
 
 Contribution:
-Audio Separation Discord server help, testing, tutorials with SDR evaluating, SDR quality checks, Google Doc best models per genre author, UVR Frequency cutoff + Time elapsed per model (GPU vs. CPU) Google Doc author, UVR video promo + how to install, Tips & Tricks Google Doc author.
+~ Conducted thorough testing and produced detailed tutorials on SDR evaluation.
+~ Implemented systematic SDR quality assessments.
+~ Authored Google Document detailing the optimal models for each genre.
+~ Authored Google Document capturing UVR frequency cutoffs and time-elapsed comparisons between GPU and CPU performances.
+~ Authored a Google Document consolidating best practices, tips, and tricks.
 
 Resources:
 ~ SDR Per Genre Breakdown
@@ -15,7 +19,8 @@ Name:
 deton24
 
 Contribution:
-Audio Separation Discord server support, SDR quality checks, UVR Guide Google Doc author.
+~ SDR quality checks.
+~ Authored a Google Document that serves as an all-in-one guide to source separation.
 
 Resources:
 ~ All-in-One Source Separation Guide
@@ -25,7 +30,8 @@ Name:
 dca100fb8
 
 Contribution:
-Testing, bug reporting, suggestions
+~ Testing
+~ Bug reporting
 ----------------------------------------------------------------------------------------------
 
 Discord Resources Link: https://discord.com/channels/708579735583588363/1153421553694953482
