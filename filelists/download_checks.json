@@ -25,6 +25,7 @@
                         "VR Arch Single Model v5: UVR-DeEcho-DeReverb by FoxJoy": "UVR-DeEcho-DeReverb.pth",
                         "VR Arch Single Model v5: UVR-DeNoise-Lite by FoxJoy": "UVR-DeNoise-Lite.pth",
                         "VR Arch Single Model v5: UVR-DeNoise by FoxJoy": "UVR-DeNoise.pth",
+                        "VR Arch Single Model v5: UVR-BVE-4B_SN-44100-1": "UVR-BVE-4B_SN-44100-1.pth",
                         "VR Arch Single Model v4: MGM_HIGHEND_v4": "MGM_HIGHEND_v4.pth",
                         "VR Arch Single Model v4: MGM_LOWEND_A_v4": "MGM_LOWEND_A_v4.pth",
                         "VR Arch Single Model v4: MGM_LOWEND_B_v4": "MGM_LOWEND_B_v4.pth",
