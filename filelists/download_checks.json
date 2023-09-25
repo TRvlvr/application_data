@@ -208,9 +208,12 @@
                 },
 
     "mdx23c_download_list": {
-                "MDX23C Model: MDX23C-InstVoc HQ": {"MDX23C-8KFFT-InstVoc_HQ.ckpt":"model_2_stem_full_band_8k.yaml"},
-                "MDX23C Model: MDX23C_D1581": {"MDX23C_D1581.ckpt":"model_2_stem_061321.yaml"}
+                "MDX23C Model: MDX23C-InstVoc HQ": {"MDX23C-8KFFT-InstVoc_HQ.ckpt":"model_2_stem_full_band_8k.yaml"}
                 },
+
+    "mdx23c_download_vip_list": {
+            "MDX23C Model VIP: MDX23C_D1581": {"MDX23C_D1581.ckpt":"model_2_stem_061321.yaml"}
+            },
     
     "vr_download_vip_list": [],
     "demucs_download_vip_list": []
