@@ -1,20 +1,27 @@
 Most Recent Changes:
 
-~ Added "Vocal Split Mode," a chain ensemble that allows you to utilize karaoke & BVE (backing vocal extractor) models to split vocals into lead vocal and backing vocal stems.
+~ Added "Vocal Split Mode," a chain ensemble that allows you to utilize karaoke & BVE (backing vocal extractor) 
+  models to split vocals into lead vocal and backing vocal stems.
 ~ Updated "Audio Tools" to include "Matchering".
-~ The "Align Tool" has been improved to line up inputs even when there are differences in timing, similar to what Utagoe does.
+~ The "Align Tool" has been improved to line up inputs even when there are differences in timing, similar 
+  to what Utagoe does.
 ~ Integrated a right-click menu for entries in the batch process window specifically for Matchering & Align tool.
-~ Introduced a right-click option for Matchering & Align tool on the main window to directly access input folders.
+~ Introduced a right-click option for Matchering & Align tool on the main window to directly access 
+  input folders.
 ~ Addressed the anomaly where models would self-select in dropdowns.
   ~ This seemed related to having a multitude of models. Revamped the dropdown menus entirely.
 ~ Fixed splash screen closing issue.
 ~ Demucs Pre-process Model settings properly reset to default
 ~ MP3 encoder now uses LAME.
-~ Resolved the problem where using the "MDX23C_D1581" model as a pre-process model for Demucs conversions was leading to a "Key Error: 'Primary Stem'" error.
+~ Resolved the problem where using the "MDX23C_D1581" model as a pre-process model for Demucs conversions 
+  was leading to a "Key Error: 'Primary Stem'" error.
 ~ Rectified the "missing file" error that was popping up when trying to convert using the Demucs v2 demucs model.
-~ Solved the problem in Demucs using the htdemucs_6s multi-stem model: when certain stems were selected and pitch-shift conversion was used, there was a KeyError, preventing the stem from being saved. The stem separation now works correctly, and files are saved to the intended destination.
+~ Solved the problem in Demucs using the htdemucs_6s multi-stem model: when certain stems were selected and 
+  pitch-shift conversion was used, there was a KeyError, preventing the stem from being saved. The stem 
+  separation now works correctly, and files are saved to the intended destination.
 ~ Adjusted the "Reset All Settings To Default" function to ensure it also resets the text of the Sample Mode slider.
-~ Made corrections so that if you activate Model Test Mode and then restart the app, the "Accept Any Input" option will not be inadvertently enabled.
+~ Made corrections so that if you activate Model Test Mode and then restart the app, the "Accept Any Input" 
+  option will not be inadvertently enabled.
 ~ Addressed the ensemble issue with MDX23C models.
 ~ Updated the "Select Stems" menu for 2 stem models under MDX23C.
 ~ Revamped the MDXC23 Overlap Menu.
@@ -31,6 +38,19 @@ Most Recent Changes:
 
 Resources & Credits:
 
+----------------------------------------------------------------------------------------------
+Name:
+ZFTurbo
+
+Contribution:
+~ Created for the new MDX23C models.
+~ Trained the new MDX23C models.
+
+Resources:
+~ These models are available to use online. See link details below:
+  ~ https://mvsep.com
+     ~ Separation type -> MDX23C (vocals, instrumental)
+     ~ Vocal model type -> 8K FFT, Full Band (SDR vocals: 10.17, SDR instrum: 16.48)
 ----------------------------------------------------------------------------------------------
 Name:
 Bas Curtiz
