@@ -11,8 +11,8 @@ in timing, similar to what Utagoe does.
 ~ Introduced a right-click option for Matchering & Align tool on the main window to 
 directly access input folders.
 ~ Addressed the anomaly where models would self-select in dropdowns.
-  ~ This seemed related to having a multitude of models. Revamped the dropdown menus 
-    entirely.
+  ~ This seemed related to having a multitude of models. 
+  ~ Revamped the dropdown menus entirely.
 ~ Fixed splash screen closing issue.
 ~ Demucs Pre-process Model settings properly reset to default
 ~ The MP3 encoder now uses LAME.
