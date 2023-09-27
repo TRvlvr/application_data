@@ -43,7 +43,7 @@ Name:
 ZFTurbo
 
 Contribution:
-~ Created for the new MDX23C models.
+~ Created the weights for the new MDX23C models.
 ~ Trained the new MDX23C models.
 
 Resources:
