@@ -1,5 +1,11 @@
 Most Recent Changes:
 
+Patch UVR_Patch_10_6_23_4_27:
+~ MPS for MacOS is now compatible with all MDX-Net & VR Arch models!
+~ Fixed memory issue with MDX23C models.
+~ Added the ability to choose GPU device to process tracks.
+
+Other Changes:
 ~ Added "Vocal Split Mode," a chain ensemble that allows you to utilize karaoke & BVE 
   (backing vocal extractor) models to split vocals into lead vocal and backing vocal 
   stems.
@@ -91,6 +97,7 @@ dca100fb8
 Contribution:
 ~ Testing
 ~ Bug reporting
+~ Suggestions
 ----------------------------------------------------------------------------------------------
 
 Discord Resources Link: https://discord.com/channels/708579735583588363/1153421553694953482
