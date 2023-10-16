@@ -1,7 +1,7 @@
 {
-    "current_version": "UVR_Patch_9_29_23_1_39",
+    "current_version": "UVR_Patch_10_6_23_4_27",
     "current_version_mac": "UVR_Patch_10_6_23_4_27",
-    "current_version_linux": "UVR_Patch_9_29_23_1_39",
+    "current_version_linux": "UVR_Patch_10_6_23_4_27",
     "vr_download_list": {
                         "VR Arch Single Model v5: 1_HP-UVR": "1_HP-UVR.pth",
                         "VR Arch Single Model v5: 2_HP-UVR": "2_HP-UVR.pth",
