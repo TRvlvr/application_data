@@ -4,9 +4,10 @@ Patch UVR_Patch_10_6_23_4_27:
 ~ MPS for MacOS is now compatible with all MDX-Net & VR Arch models!
 ~ Fixed memory issue with MDX23C models.
 ~ Added the ability to choose GPU device to process tracks.
+~ Fixed a few graphical bugs.
 
 Other Changes:
-~ Added "Vocal Split Mode," a chain ensemble that allows you to utilize karaoke & BVE 
+~ Added "Vocal Split Mode," a chain ensemble that utilizes karaoke & BVE 
   (backing vocal extractor) models to split vocals into lead vocal and backing vocal 
   stems.
 ~ Updated "Audio Tools" to include "Matchering".
@@ -27,7 +28,7 @@ directly access input folders.
 ~ Rectified the "missing file" error that was popping up when trying to convert using 
   the Demucs v2 Demucs model.
 ~ Solved the problem in Demucs using the htdemucs_6s multi-stem model: when certain 
-  stems were selected, and pitch-shift conversion was used, a KeyError prevented 
+  stems were selected and pitch-shift conversion was used, a KeyError prevented 
   the stem from being saved. The stem separation now works correctly, and files are 
   saved to the intended destination.
 ~ Adjusted the "Reset All Settings To Default" function to ensure it also resets the 
@@ -37,7 +38,7 @@ directly access input folders.
 ~ Addressed the ensemble issue with MDX23C models.
 ~ Updated the "Select Stems" menu for 2 stem models under MDX23C.
 ~ Revamped the MDXC23 Overlap Menu.
-~ Provided an option to decide the use of the VR denoise model in MDX-NET.
+~ Provided an option to decide on using the VR denoise model in MDX-NET.
   ~ Introduced a selection menu with choices: "None," "Standard," and "Denoise Model."
 ~ Added an option to automatically deverb vocals for Demucs & MDX models. (does not 
   work in ensemble mode at this time)
