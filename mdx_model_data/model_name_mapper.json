@@ -29,5 +29,5 @@
     "model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt": "Mel-Roformer-Viperx-1143",
     "melband_roformer_inst_v1.ckpt": "MB-Roformer-Inst-v1",
     "melband_roformer_instvoc_duality_v1.ckpt": "MB-Roformer-InstVoc-Duality-v1",
-    "melband_roformer_instvoc_duality_v2.ckpt": "MB-Roformer-InstVoc-Duality-v2"
+    "melband_roformer_instvox_duality_v2.ckpt": "MB-Roformer-InstVoc-Duality-v2"
 }
