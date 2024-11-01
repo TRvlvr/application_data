@@ -26,7 +26,7 @@
     "model_bs_roformer_ep_317_sdr_12.9755.ckpt": "BS-Roformer-Viperx-1297",
     "model_bs_roformer_ep_368_sdr_12.9628.ckpt": "BS-Roformer-Viperx-1296",
     "model_bs_roformer_ep_937_sdr_10.5309.ckpt": "BS-Roformer-Viperx-1053",
-    "model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt": "Mel-Roformer-Viperx-1143"
+    "model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt": "Mel-Roformer-Viperx-1143",
     "melband_roformer_inst_v1.ckpt": "MB-Roformer-Inst-v1",
     "melband_roformer_instvoc_duality_v1.ckpt": "MB-Roformer-InstVoc-Duality-v1",
     "melband_roformer_instvoc_duality_v2.ckpt": "MB-Roformer-InstVoc-Duality-v2"
