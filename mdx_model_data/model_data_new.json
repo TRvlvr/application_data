@@ -377,6 +377,18 @@
         "config_yaml": "model_bs_roformer_ep_937_sdr_10.5309.yaml",
         "is_roformer": true
     },
+    "d7a256bee3e7c620f554bceaab2f68f6": {
+        "config_yaml": "config_melbandroformer_inst.yaml",
+        "is_roformer": true
+    },
+    "3c15abf122d8eccc4a0eb97bf84a3e58": {
+        "config_yaml": "config_melbandroformer_instvoc_duality.yaml",
+        "is_roformer": true
+    },
+    "9fb197af219c5172ea38703a33aceb79": {
+        "config_yaml": "config_melbandroformer_instvoc_duality.yaml",
+        "is_roformer": true
+    },
     "d789065adfd747d6f585b27b495bcdae": {
         "config_yaml": "model_bs_roformer_ep_368_sdr_12.9628.yaml",
         "is_roformer": true
