@@ -392,5 +392,9 @@
     "d789065adfd747d6f585b27b495bcdae": {
         "config_yaml": "model_bs_roformer_ep_368_sdr_12.9628.yaml",
         "is_roformer": true
+    },
+    "951f8ef420a941a395a9919f5d55cce9": {
+        "config_yaml": "config_melbandroformer_inst_v2.yaml",
+        "is_roformer": true
     }
 }
