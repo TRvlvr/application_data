@@ -220,6 +220,7 @@
                 "Roformer Model: BS-Roformer-Viperx-1053": {"model_bs_roformer_ep_937_sdr_10.5309.ckpt":"model_bs_roformer_ep_937_sdr_10.5309.yaml"},
                 "Roformer Model: Mel-Roformer-Viperx-1143": {"model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt":"model_mel_band_roformer_ep_3005_sdr_11.4360.yaml"},
                 "Roformer Model: MelBand Roformer Kim | Inst V1 by Unwa": {"melband_roformer_inst_v1.ckpt":"config_melbandroformer_inst.yaml"},
+                "Roformer Model: MelBand Roformer Kim | Inst V2 by Unwa": {"melband_roformer_inst_v2.ckpt":"config_melbandroformer_inst_v2.yaml"},
                 "Roformer Model: MelBand Roformer Kim | InstVoc Duality V1 by Unwa": {"melband_roformer_instvoc_duality_v1.ckpt":"config_melbandroformer_instvoc_duality.yaml"},
                 "Roformer Model: MelBand Roformer Kim | InstVoc Duality V2 by Unwa": {"melband_roformer_instvox_duality_v2.ckpt":"config_melbandroformer_instvoc_duality.yaml"}
                 },
