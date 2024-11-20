@@ -381,6 +381,10 @@
         "config_yaml": "config_melbandroformer_inst.yaml",
         "is_roformer": true
     },
+    "365ccfa0e04b31ac2e24bbb935142a81": {
+        "config_yaml": "config_melbandroformer_inst.yaml",
+        "is_roformer": true
+    },
     "3c15abf122d8eccc4a0eb97bf84a3e58": {
         "config_yaml": "config_melbandroformer_instvoc_duality.yaml",
         "is_roformer": true
