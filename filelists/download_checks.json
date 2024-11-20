@@ -242,6 +242,8 @@
                                                                                       "config_melbandroformer_instvoc_duality.yaml":"https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_melbandroformer_instvoc_duality.yaml"},
                 "Roformer Model: MelBand Roformer Kim | InstVoc Duality V2 by Unwa": {"melband_roformer_instvox_duality_v2.ckpt":"https://huggingface.co/pcunwa/Mel-Band-Roformer-InstVoc-Duality/resolve/main/melband_roformer_instvox_duality_v2.ckpt",
                                                                                       "config_melbandroformer_instvoc_duality.yaml":"https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_melbandroformer_instvoc_duality.yaml"}
+                "Roformer Model: MelBand Roformer Kim | InstVoc Duality V1 (E) by Unwa": {"inst_v1e.ckpt":"https://huggingface.co/pcunwa/Mel-Band-Roformer-Inst/resolve/main/inst_v1e.ckpt",
+                                                                                          "config_melbandroformer_inst.yaml":"https://raw.githubusercontent.com/TRvlvr/application_data/main/mdx_model_data/mdx_c_configs/config_melbandroformer_inst.yaml"}
                 },
     "mdx23c_download_vip_list": {
             "MDX23C Model VIP: MDX23C_D1581": {"MDX23C_D1581.ckpt":"model_2_stem_061321.yaml"},
