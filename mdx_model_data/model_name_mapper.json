@@ -32,5 +32,6 @@
     "melband_roformer_inst_v2.ckpt": "MB-Roformer-Inst-v2",
     "inst_v1e.ckpt": "MB-Roformer-Inst-v1-E",
     "melband_roformer_instvoc_duality_v1.ckpt": "MB-Roformer-InstVoc-Duality-v1",
-    "melband_roformer_instvox_duality_v2.ckpt": "MB-Roformer-InstVoc-Duality-v2"
+    "melband_roformer_instvox_duality_v2.ckpt": "MB-Roformer-InstVoc-Duality-v2",
+    "MelBandRoformer.ckpt": "MB-Roformer-Kim"
 }
