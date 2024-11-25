@@ -105,12 +105,12 @@ training:
   gradient_accumulation_steps: 1
   grad_clip: 0
   instruments:
-  - Vocals
-  - Instrumental
+  - No Drum-Bass
+  - Drum-Bass
   lr: 5.0e-05
   patience: 2
   reduce_factor: 0.95
-  target_instrument: Vocals
+  target_instrument: No Drum-Bass
   num_epochs: 1000
   num_steps: 1000
   q: 0.95
