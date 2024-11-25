@@ -45,6 +45,7 @@ training:
   target_instrument: Vocals
 
 inference:
+  batch_size: 1
   dim_t: 1101
   num_overlap: 1
   chunk_size: 352800
