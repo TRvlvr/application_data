@@ -93,12 +93,26 @@ Resources:
 ~ Link: (See "Discord Resources Link" below)
 ----------------------------------------------------------------------------------------------
 Name:
-dca100fb8
+becruily & jarredou
 
 Contribution:
-~ Testing
-~ Bug reporting
+~ Phase Swapper Tool (available in Roformer Beta)
 ~ Suggestions
+----------------------------------------------------------------------------------------------
+Name:
+JusperLee
+
+
+Contribution:
+~ Apollo Restoration AI Tool (available in Roformer Beta)
+~ Link: https://github.com/JusperLee/Apollo
+
+----------------------------------------------------------------------------------------------
+Name:
+Unwa
+
+Contribution:
+~ New Roformer Models (available in Roformer Beta)
 ----------------------------------------------------------------------------------------------
 
 Discord Resources Link: https://discord.com/channels/708579735583588363/1153421553694953482
