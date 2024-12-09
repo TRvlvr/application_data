@@ -49,7 +49,7 @@ directly access input folders.
 ~ Ensured the download lists refresh properly even when there's no internet.
 ~ Many more fixes.
 
-Resources & Credits:
+Resources & Additional Credits:
 
 ----------------------------------------------------------------------------------------------
 Name:
