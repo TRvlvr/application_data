@@ -93,6 +93,13 @@ Resources:
 ~ Link: (See "Discord Resources Link" below)
 ----------------------------------------------------------------------------------------------
 Name:
+dca100fb8
+
+Contribution:
+~ Testing
+~ Bug reporting
+----------------------------------------------------------------------------------------------
+Name:
 becruily & jarredou
 
 Contribution:
