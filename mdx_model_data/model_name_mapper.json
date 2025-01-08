@@ -42,6 +42,6 @@
     "scnet_checkpoint_musdb18.ckpt": "4-stem-SCNet-MUSDB18-Starrytong",
     "SCNet-large_starrytong_fixed.ckpt": "4-stem-SCNet-Large-Starrytong",
     "model_scnet_sdr_9.3244.ckpt": "4-stems-SCNet-Large",
-    "aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckptt": "6-stem-DrumSep-Aufr33-Jarredou",
+    "aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt": "6-stem-DrumSep-Aufr33-Jarredou",
     "model_mdx23c_ep_271_l1_freq_72.2383.ckpt": "Phantom-Mid-Extr-Wesleyr36"
 }
