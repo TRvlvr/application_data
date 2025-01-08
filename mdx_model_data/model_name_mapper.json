@@ -39,9 +39,9 @@
     "deverb_bs_roformer_8_256dim_8depth.ckpt": "BS-Ro-Dereverb-Anvuew",
     "model_bandit_plus_dnr_sdr_11.47.ckpt": "Cinematic-Bandit-Plus",
     "checkpoint-multi_fixed.ckpt": "Cinematic-Bandit-Multi",
-    "scnet_checkpoint_musdb18.ckpt": "4S-SCNet-MUSDB18-Starrytong",
+    "scnet_checkpoint_musdb18.ckpt": "4S-SCNet-Starrytong",
     "SCNet-large_starrytong_fixed.ckpt": "4S-SCNet-Large-Starrytong",
     "model_scnet_sdr_9.3244.ckpt": "4S-SCNet-Large",
-    "aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt": "6S-DrumSep-Aufr33-Jarredou",
+    "aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt": "DrumSep-Aufr33-Jarredou",
     "model_mdx23c_ep_271_l1_freq_72.2383.ckpt": "Phantom-Mid-Wesleyr36"
 }
