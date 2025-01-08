@@ -450,7 +450,7 @@
     },
     "c7500d7fdb1c0fc24b14b698515462d2": {
         "config_yaml": "config_mdx23c_similarity.yaml",
-        "is_roformer": true,
+        "is_roformer": false,
         "model_type": "MDX23C",
         "is_karaoke": false
     },
