@@ -471,6 +471,12 @@
         "is_roformer": true,
         "model_type": "SCNet",
         "is_karaoke": false
+    },
+    "85b1955d57c0719e94e832eaaeceb0a8": {
+        "config_yaml": "config_musdb18_scnet_xl.yaml",
+        "is_roformer": true,
+        "model_type": "SCNet",
+        "is_karaoke": false
     }
     
 }
