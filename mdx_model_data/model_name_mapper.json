@@ -44,5 +44,5 @@
     "model_scnet_sdr_9.3244.ckpt": "4S-SCNet-Large",
     "aufr33-jarredou_DrumSep_model_mdx23c_ep_141_sdr_10.8059.ckpt": "DrumSep-Aufr33-Jarredou",
     "model_mdx23c_ep_271_l1_freq_72.2383.ckpt": "Phantom-Mid-Wesleyr36",
-    "model_scnet_ep_54_sdr_9.8051.ckpt": "SCNet-XL-ZFTurbo"
+    "model_scnet_ep_54_sdr_9.8051.ckpt": "4S-SCNet-XL-ZFTurbo"
 }
