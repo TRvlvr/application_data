@@ -32,7 +32,6 @@ Patch UVR_Patch_1_15_25_22_30_BETA:
 ~ Interface Improvements:
   ~ Ensemble mode model box now includes a horizontal scroller.
   ~ Annoying CMD window no longer pops up during ffmpeg and Rubber Band usage.
-~ Beta Link: https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.6/UVR_Patch_1_15_25_22_30_BETA_rofo.exe
 
 Resources & Additional Credits:
 
