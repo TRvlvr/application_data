@@ -46,7 +46,7 @@ ZFTurbo
 Contribution:
 ~ Created the weights for the new MDX23C models.
 ~ Trained the new MDX23C models.
-~ Maintains an all-in-one command-line training and inference code for multiple SS networks
+~ Maintains an all-in-one command-line training and inference code for multiple SS networks.
 
 Resources:
 ~ These models are available to use online. See link details below:
