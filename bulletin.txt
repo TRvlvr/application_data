@@ -97,6 +97,7 @@ deton24
 Contribution:
 ~ SDR quality checks.
 ~ Authored a Google Document that serves as an all-in-one guide to source separation.
+~ A big thank you to for consistently helping address issues in the official UVR repo.
 
 Resources:
 ~ All-in-One Source Separation Guide
